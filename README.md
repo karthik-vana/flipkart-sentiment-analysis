@@ -103,3 +103,4 @@ npm run dev
 
 **Developed with ❤️ by Karthik Vana**
 >>>>>>> fe874e5 (Initial commit for Sentiment Analysis Web App)
+ 
