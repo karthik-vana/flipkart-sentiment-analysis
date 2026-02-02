@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints
+data/
+reviews_data_dump/
+.next/
+node_modules/
