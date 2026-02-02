@@ -1,6 +1,4 @@
-scikit-learn
 numpy
-nltk
-joblib
 fastapi
 pydantic
+nltk
