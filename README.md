@@ -1,6 +1,26 @@
+<div align="center">
+
 # Sentiment Analysis of Flipkart Reviews
 
-**Powered by Karthik Vana | Data Engineer | ML Engineer | AI Engineer**
+<a href="https://flipkart-sentiment-analysis-omega.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-Click_Here-FF9900?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=435&lines=Flipkart+Reviews+Analysis;Sentiment+Classification;Pain+Point+Extraction;Powered+by+AI" alt="Typing SVG" />
+</a>
+
+<br/>
+
+**Built by Karthik Vana**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://karthik-vana.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-vana/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karthik-vana)
+
+</div>
 
 ## 📌 Project Overview
 An end-to-end, production-ready Sentiment Analysis system designed to classify Flipkart product reviews (specifically for the YONEX MAVIS 350 Nylon Shuttle) into **Positive** or **Negative** sentiment. It also extracts key **pain points** from negative reviews to identify customer dissatisfaction themes.
