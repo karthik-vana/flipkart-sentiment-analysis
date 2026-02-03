@@ -1,4 +1,9 @@
 numpy
-fastapi
-pydantic
+pandas
+scikit-learn
 nltk
+fastapi
+uvicorn
+pydantic
+python-multipart
+joblib

@@ -1,9 +1,27 @@
+# Python
 venv/
 __pycache__/
 *.pyc
-.env
 .ipynb_checkpoints
 data/
 reviews_data_dump/
-.next/
+
+# Next.js / Node
 node_modules/
+/.next/
+/out/
+/build
+.vercel
+.env*.local
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.tsbuildinfo
+next-env.d.ts
+
+# Misc
+.DS_Store
+*.pem
+/coverage

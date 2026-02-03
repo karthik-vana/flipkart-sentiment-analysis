@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# flipkart-sentiment-analysis
-=======
 # Sentiment Analysis of Flipkart Reviews
 
 **Powered by Karthik Vana | Data Engineer | ML Engineer | AI Engineer**
@@ -41,18 +38,19 @@ Sentiment Analysis/
 ├── api/                # FastAPI Backend
 │   ├── main.py         # API Endpoints
 │   └── index.py        # Vercel Entry Point
-├── frontend/           # Next.js Web Application
-│   ├── app/            # App Router & Pages
-│   └── public/         # Static Assets
+├── app/                # Next.js App Router & Pages
+├── public/             # Static Assets
 ├── models/             # Trained ML Models
 │   └── sentiment_model.joblib
+│   └── model_params.json
 ├── src/                # Machine Learning Source Code
 │   ├── preprocessing.py# Text Cleaning & Normalization
-│   ├── train_model.py  # Model Training Script
-│   └── eda_plots.py    # Analysis Visualization
+│   └── train_model.py  # Model Training Script
 ├── data/               # Dataset
-├── notebooks/          # Experimentation Notebooks
-└── requirements.txt    # Python Dependencies
+│   └── raw/            # Raw CSV data
+├── requirements.txt    # Python Dependencies
+├── package.json        # Frontend Dependencies
+└── README.md           # Documentation
 ```
 
 ---
@@ -74,8 +72,10 @@ uvicorn api.main:app --reload
 
 ### 2. Frontend Setup
 ```bash
-cd frontend
+# Install dependencies
 npm install
+
+# Run the app
 npm run dev
 ```
 *App runs at `http://localhost:3000`*
@@ -102,5 +102,4 @@ npm run dev
 ---
 
 **Developed with ❤️ by Karthik Vana**
->>>>>>> fe874e5 (Initial commit for Sentiment Analysis Web App)
  
