@@ -2,19 +2,20 @@
 
 # Sentiment Analysis of Flipkart Reviews
 
-<a href="https://flipkart-sentiment-analysis.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-Click_Here-FF9900?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-</a>
-
-<br/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=435&lines=Flipkart+Reviews+Analysis;Sentiment+Classification;Pain+Point+Extraction;Powered+by+AI" alt="Typing SVG" />
 </a>
-
 <br/>
 
+---
+
 **Built by Karthik Vana**
+
+<a href="https://flipkart-sentiment-analysis.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-Click_Here-FF9900?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+#
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://karthik-vana.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-vana/)
@@ -126,6 +127,10 @@ npm run dev
 
 ### Karthik Vana
 
+#scan the QR code below:
+
+<img src="karthik-vana.png" alt="Scan for Live Demo" width="200">
+
 **Data Science Enthusiast | Machine Learning Engineer | AI Engineer**
 
 *Building practical ML solutions for real-world problems*
@@ -139,5 +144,7 @@ npm run dev
 
 **Made with ❤️ and Python**
 
+⭐ *Star this repository if you found it helpful!* ⭐
+
 *Last Updated: December 2025*
-<div></div> 
+<div></div>
