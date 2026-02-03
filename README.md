@@ -2,7 +2,7 @@
 
 # Sentiment Analysis of Flipkart Reviews
 
-<a href="https://vercel.com/karthik-vanas-projects/flipkart-sentiment-analysis">
+<a href="https://flipkart-sentiment-analysis.vercel.app/">
   <img src="https://img.shields.io/badge/LIVE_DEMO-Click_Here-FF9900?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
 
