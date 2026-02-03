@@ -2,7 +2,7 @@
 
 # Sentiment Analysis of Flipkart Reviews
 
-<a href="https://flipkart-sentiment-analysis-omega.vercel.app/">
+<a href="https://vercel.com/karthik-vanas-projects/flipkart-sentiment-analysis">
   <img src="https://img.shields.io/badge/LIVE_DEMO-Click_Here-FF9900?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
 
@@ -120,6 +120,24 @@ npm run dev
 -   Deploy as a containerized microservice using Docker.
 
 ---
+<div align="center">
 
-**Developed with ❤️ by Karthik Vana**
- 
+## 👨‍💻 Created By
+
+### Karthik Vana
+
+**Data Science Enthusiast | Machine Learning Engineer | AI Engineer**
+
+*Building practical ML solutions for real-world problems*
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthik-vana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-vana/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](karthikvana236@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-v-smoky.vercel.app/)
+
+## 💼 Open to Data Science & ML opportunities
+
+**Made with ❤️ and Python**
+
+*Last Updated: December 2025*
+<div></div> 
